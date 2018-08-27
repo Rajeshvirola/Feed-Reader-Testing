@@ -53,7 +53,7 @@ In this project we are given web based application that content RSS feeds by Uda
 
 # How to run the Project
 
-* Open index.html in your favourite browser.
+* Open [index.html](https://github.com/Rajeshvirola/Feed-Reader-Testing/blob/master/index.html) in your favourite browser.
 * The test have written in the feedreader.js file.
 * Tests that are green have passed and red have failed.
 * The online version can be seen at https://github.com/Rajeshvirola/Feed-Reader-Testing 
